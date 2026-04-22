@@ -1,0 +1,11 @@
+order_id,customer,product,amount,city,date
+101,Alex,Laptop,1200,NYC,2026-01-01
+102,Beth,Mouse,25,London,2026-01-02
+103,Alex,Laptop,1200,NYC,2026-01-03
+104,Drew,Monitor,300,Tokyo,2026-01-04
+105,Beth,Mouse,25,London,2026-01-05
+106,Drew,Monitor,300,Tokyo,2026-01-06
+107,Chris,Laptop,1200,London,2026-01-07
+108,Chris,Mouse,25,NYC,2026-01-08
+109,Alex,Monitor,300,Tokyo,2026-01-09
+110,Drew,Laptop,1200,NYC,2026-01-10
