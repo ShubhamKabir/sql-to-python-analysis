@@ -1,19 +1,42 @@
-# SQL to Python: Sales Analysis Pipeline
+# SQL to Python Data Analysis
 
-This project demonstrates the transition from SQL-based querying to a Python-driven analytical workflow. It focuses on automating data cleaning, feature engineering, and visualization.
+## Overview
 
-## Key Features
-- **Data Integrity**: Automated handling of nulls and duplicates.
-- **Feature Engineering**: Logic-based categorization of order values.
-- **Time-Series Analysis**: Dynamic grouping by month names for trend reporting.
-- **Visualization**: Professional-grade distribution charts.
+This project demonstrates how SQL and Python (pandas) can be combined to extract, clean, and analyze data to generate meaningful insights.
 
-## Insights Derived
-- Identified NYC as the primary revenue driver (45% of total).
-- Discovered high revenue dependency on a small group of repeat customers.
-- Noted a significant gap between high-volume accessory sales and low revenue contribution.
+---
 
-## Setup
-1. `pip install pandas matplotlib`
-2. Run `python 01_setup_data.py`
-3. Run `python 02_analysis_pipeline.py`
+## Problem
+
+Raw data is often unstructured and difficult to interpret.
+This project focuses on transforming data into useful insights using SQL queries and Python analysis.
+
+---
+
+## Workflow
+
+1. Data extraction using SQL
+2. Data cleaning and transformation using pandas
+3. Data analysis and pattern identification
+4. Insight generation
+
+---
+
+## Tech Stack
+
+* SQL
+* Python (pandas)
+
+---
+
+## Key Insights
+
+* Identified patterns in data trends
+* Extracted meaningful relationships between variables
+* Highlighted areas for optimization
+
+---
+
+## Conclusion
+
+Combining SQL and Python allows efficient data handling and deeper analysis, making it easier to derive actionable insights.
